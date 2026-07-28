@@ -7,11 +7,12 @@ public class Program
     {
         Console.OutputEncoding = Encoding.UTF8;
 
-      
-         Menu menu = new Menu();
+        Menu menu = new Menu();
         InputValidator validator = new InputValidator();
         TollCalculator calculator = new TollCalculator();
 
+
+        // to-do: remove the null initialization for vehicle and toll objects
         Vehicle? vehicle = null;
         Toll? toll = null;
         DateTime transactionTime = DateTime.MinValue;
