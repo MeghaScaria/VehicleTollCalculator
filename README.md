@@ -110,39 +110,41 @@ git clone https://github.com/your-username/VehicleTollCalculator.git
 ---
 
 ## 📷 Outputs
-<details>
 
-<summary><b>Test Case 1 – Viewing Summary Before Calculation</b></summary>
+<details>
+<summary><b>Test Case 1 – Viewing Summary Before Toll Calculation</b></summary>
+
+<br>
+
 <img src="https://github.com/user-attachments/assets/3215eb77-f18f-4c14-b5ec-b8ec98851df1" width="500"/>
-">
-<br>
-<img src="https://github.com/user-attachments/assets/1c8e50ad-7d9e-4dd8-ab31-0c401c26f780" width="500" />
-">
 
-</detials>
+<br><br>
 
-<details>
+<img src="https://github.com/user-attachments/assets/1c8e50ad-7d9e-4dd8-ab31-0c401c26f780" width="500"/>
 
-<summary><b>Test Case 1 – Invalid Input Validation</b></summary>
-<img src="https://github.com/user-attachments/assets/0dbd3f91-ece8-43a6-b142-ac6e8c7e6999" />
-" width="500"/>
-">
-<br>
-
-</detials>
+</details>
 
 <details>
+<summary><b>Test Case 2 – Input Validation for Invalid Vehicle Details</b></summary>
 
-<summary><b>Test Case 3 – Successful Toll Calculation</b></summary>
-<img src="https://github.com/user-attachments/assets/29151a17-1823-4012-a499-ae97885c300c" />
-" width="500"/>
-">
 <br>
-<img src="https://github.com/user-attachments/assets/38398b7b-d93c-4cdc-8a54-63c6b2215def" />
-" width="500" />
-">
 
-</detials>
+<img src="https://github.com/user-attachments/assets/0dbd3f91-ece8-43a6-b142-ac6e8c7e6999" width="500"/>
+
+</details>
+
+<details>
+<summary><b>Test Case 3 – Successful Toll Calculation and Receipt Generation</b></summary>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/29151a17-1823-4012-a499-ae97885c300c" width="500"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/38398b7b-d93c-4cdc-8a54-63c6b2215def" width="500"/>
+
+</details>
 ---
 
 ## 📚 OOP Concepts Demonstrated
